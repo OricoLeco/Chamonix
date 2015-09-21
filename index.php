@@ -28,12 +28,12 @@ foreach ($pictures['entry'] as $singlePic)
          $link=$singlePic['link'][1]['@attributes']['href'];
         $imagelink=$singlePic['link'];
         
-        //this link goes to author conection, we need author's picture
+        //this link goes to author's conections, we need author's pictures
          $peoplePage=$singlePic['author']['uri']; 
         
        
          $authorPage=str_replace('people','photos',$peoplePage);
-//        print $authorPage;
+
          
  ?>   
 
