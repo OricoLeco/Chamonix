@@ -1,6 +1,6 @@
 
 
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <HTML>
     <HEAD>
         <LINK rel="stylesheet" href="css/style.css">
